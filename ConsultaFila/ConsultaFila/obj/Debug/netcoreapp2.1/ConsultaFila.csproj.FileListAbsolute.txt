@@ -1,0 +1,12 @@
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\bin\Debug\netcoreapp2.1\ConsultaFila.deps.json
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\bin\Debug\netcoreapp2.1\ConsultaFila.runtimeconfig.json
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\bin\Debug\netcoreapp2.1\ConsultaFila.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\bin\Debug\netcoreapp2.1\ConsultaFila.dll
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\bin\Debug\netcoreapp2.1\ConsultaFila.pdb
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\obj\Debug\netcoreapp2.1\ConsultaFila.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\obj\Debug\netcoreapp2.1\ConsultaFila.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\obj\Debug\netcoreapp2.1\ConsultaFila.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\obj\Debug\netcoreapp2.1\ConsultaFila.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\obj\Debug\netcoreapp2.1\ConsultaFila.dll
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\obj\Debug\netcoreapp2.1\ConsultaFila.pdb
+C:\Users\Rafael\source\repos\TesteWipro\ConsultaFila\ConsultaFila\obj\Debug\netcoreapp2.1\ConsultaFila.genruntimeconfig.cache
